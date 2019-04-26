@@ -30,10 +30,7 @@
 	<li><a href="http://www.w3schools.com/tags/default.asp">HTML/XHTML Reference</a></li>
 	<li><a href="http://www.w3schools.com/cssref/">CSS Reference</a></li>
 	<li><a href="http://www.csstutorial.net/">CSS Tutorial</a></li>
-	<li><a href="http://alistapart.com/topics/design/layout/">A List Apart</a></li>
 	<li><a href="http://www.csszengarden.com/">An example of one page displayed using several different style sheets</a></li>
-	<li><a href="http://faculty.cs.byu.edu/~clement/CS360/weather.html">HTML page</a></li>
-	<li><a href="http://faculty.cs.byu.edu/~clement/CS360/assignments/css/banner.jpg">Banner image</a></li>
 	<li><a href="http://faculty.cs.byu.edu/~clement/CS360/assignments/css/360.css">Style Sheet</a></li>
 </ul>
 
